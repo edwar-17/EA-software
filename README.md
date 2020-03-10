@@ -1,2 +1,2 @@
-# Profil
-Nama Edwar Anas Kelas TI-IVD
+# EA-Software
+Aplikasi di Github
